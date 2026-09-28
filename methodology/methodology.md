@@ -11,6 +11,8 @@ This produces an analytical population of **45,485 listings**.
 
 The raw German population contains 45,611 listings; the €1,000 threshold is used to reduce the influence of clearly anomalous low-price entries while keeping the project focused on marketplace asking-price analysis.
 
+Brand and model volumes reflect this Kaggle snapshot and should not be interpreted as a complete representation of the real German vehicle market.
+
 ## 2. Data grain
 
 The source data is treated at listing level:
