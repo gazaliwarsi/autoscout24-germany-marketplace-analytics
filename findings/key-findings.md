@@ -10,7 +10,7 @@ The figures below refer to the **45,485 German listings** used in the analytical
 | Median asking price | €42,990 |
 | Dealer listing share | 88.46% |
 | Private-seller listing share | 11.54% |
-| Electrified listing share | 16.62% |
+| Electrified listing share | 16.63% |
 | Median mileage | 34,500 km |
 | Median vehicle age | 3 years |
 
@@ -27,15 +27,23 @@ Analytical shares:
 - Electric/Diesel: **1.70%**
 - Other categories: **0.09%**
 
-The dashboard also provides an aggregated **Electrified Listing Share** of **16.62%**.
+The dashboard also provides an aggregated **Electrified Listing Share** of **16.63%**.
 
 These figures describe the composition of the available listings in the snapshot. They should not be interpreted as market share, sales share, or customer preference.
 
 ## Seller structure
 
-Dealer listings account for the large majority of the German analytical population, while private-seller listings form a smaller segment.
+Dealer listings account for **88.46%** of the German analytical population, while private-seller listings represent **11.54%**.
 
 In the SQL analysis, average asking price and average mileage also differ materially between the two seller types. The dashboard therefore treats seller type as an important dimension for marketplace comparison.
+
+## Fuel-price differences
+
+Median asking prices differ across fuel categories in the snapshot. **Electric listings have a median asking price of €74,980, compared with €35,979.50 for Diesel listings.** This is a descriptive difference within the listing population, not a causal estimate.
+
+## Brand and model landscape
+
+Within the **Top 10 brands by listing volume**, Porsche has **7,709 listings** and a median asking price of **€87,950**.
 
 ## Mileage and asking price
 
