@@ -35,7 +35,7 @@ The first page provides an executive-level view of the German listing population
 - median vehicle age
 - fuel composition
 - asking-price comparisons
-- brand-level listing and pricing analysis
+- Top 10 brand listing and pricing analysis
 - seller-type analysis
 - interactive **Median Asking Price Explorer** using a decomposition tree
 
@@ -115,11 +115,15 @@ The model benchmark uses the **median asking price for the same brand + model** 
 
 ### Marketplace structure
 
-Dealer listings make up the large majority of the German analytical population, while private-seller listings represent a smaller segment.
+Dealer listings make up **88.46%** of the German analytical population, while private-seller listings represent **11.54%**.
 
 ### Fuel composition
 
-The listing population is predominantly **Petrol** and **Diesel**, with electrified categories forming a meaningful but smaller share of the snapshot.
+Median asking prices differ across fuel categories in the snapshot. **Electric listings have a median asking price of €74,980, compared with €35,979.50 for Diesel listings.** This is a descriptive difference within the listing population, not evidence of a causal price effect.
+
+### Brand and listing volume
+
+Within the **Top 10 brands by listing volume**, Porsche has **7,709 listings** and a median asking price of **€87,950**.
 
 ### Mileage and asking price
 
