@@ -107,7 +107,7 @@ The model benchmark uses the **median asking price for the same brand + model** 
 | Median asking price | €42,990 |
 | Dealer listing share | 88.46% |
 | Private-seller listing share | 11.54% |
-| Electrified listing share | 16.62% |
+| Electrified listing share | 16.63% |
 | Median mileage | 34,500 km |
 | Median vehicle age | 3 years |
 
